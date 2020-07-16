@@ -1,4 +1,4 @@
-import "../../../common/ListNode/ListNode";
+import "../../../modules/ListNode/ListNode";
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
